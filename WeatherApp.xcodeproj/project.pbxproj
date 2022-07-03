@@ -60,8 +60,8 @@
 				E57E0F9F287148E300DA954C /* ViewModels */,
 				E57E0F9C2871470700DA954C /* Services */,
 				E57E0F992871465800DA954C /* Models */,
-				E57E0F8B2871460900DA954C /* WeatherAppApp.swift */,
 				E57E0F8D2871460900DA954C /* ContentView.swift */,
+				E57E0F8B2871460900DA954C /* WeatherAppApp.swift */,
 				E57E0F8F2871460A00DA954C /* Assets.xcassets */,
 				E57E0F912871460A00DA954C /* Preview Content */,
 			);
