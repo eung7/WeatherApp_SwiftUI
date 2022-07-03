@@ -20,3 +20,4 @@ class WeatherService {
         }.resume()
     }
 }
+
